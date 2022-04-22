@@ -1,4 +1,4 @@
 - **Runs** [Linux](https://www.linuxfoundation.org/), mostly [Debian](https://debian.org/)
 - **Codes** JavaScript, [Perl 5](https://www.perl.org/), [Python](https://www.python.org/)
-- **Technical interests** Web technologies, XML technologies, Object-relational mappers, Distributed social networks
+- **Technical interests** Web technologies, XML technologies, Object-relational mappers, Distributed social networks, Open-source
 - **Interests** Botany, Gardening, Electronics, Spanish culture
